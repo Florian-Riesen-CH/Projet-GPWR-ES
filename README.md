@@ -1,6 +1,6 @@
 # Introduction à Git & GitHub
 
-Ce repository sert de support pour le cours d’introduction à **Git** et **GitHub**.  
+Ce repository sert de support pour le cours GPWR d’introduction à **Git** et **GitHub**.  
 Il est utilisé pour apprendre à travailler seul et à plusieurs sur des fichiers.
 
 ---
