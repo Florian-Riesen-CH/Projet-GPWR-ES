@@ -90,5 +90,3 @@ Ce repository peut être publié avec **GitHub Pages**.
 
 Ce repository est volontairement simple.  
 Il sert à **pratiquer Git**, pas à produire un projet final.
-
-
